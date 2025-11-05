@@ -1,30 +1,82 @@
-<h1 align="center">Hi 👋, I'm Kandarp Gajjar (Slantie)</h1>
-<h3 align="center">1x AWS Certified | Passionate Computer Engineering Student | Cyber Security Enthusiast</h3>
+<div align="center">
 
-<img align="right" alt="gif" width="400" src="https://camo.githubusercontent.com/9792d43627b178fd4a45bcabb3647d7b34a62d64baf96a19abf6ea19d5cea8dd/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
+# 👋 Hi, I'm Kandarp Gajjar
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=slantie&label=Profile%20views&color=0e75b6&style=flat" alt="slantie" /> </p>
+### 1x AWS Certified | Computer Engineering Student | Machine Learning Enthusiast
 
-- 🌱 Currently learning **Machine Learning using TensorFlow, Keras, PyTorch**
+*B.E. Computer Engineering @ LDRP-ITR, KSV*
 
-- 📫 Ping me at **kandarp_22091@ldrp.ac.in**
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/kandarpgajjar/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="kandarp gajjar" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/21724756" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="21724756" height="30" width="40" /></a>
-<a href="https://kaggle.com/slantie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="slantie" height="30" width="40" /></a>
-<a href="https://instagram.com/whoisslantie" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="whoisslantie" height="30" width="40" /></a>
+## About Me
+
+I'm a passionate computer science undergraduate specializing in **machine learning**, **system design**, and **cybersecurity**. I love building end-to-end solutions that solve real-world problems, from AI-powered applications to scalable full-stack systems.
+
+Currently exploring: Advanced ML architectures, cloud-native applications, and secure system design patterns.
+
+## Technical Arsenal
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,js,typescript,pytorch,tensorflow,sklearn,opencv,react,nodejs,fastapi,flask" />
+<br/>
+<img src="https://skillicons.dev/icons?i=aws,docker,git,postgres,mysql,html,css"/>
+
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a>  
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> 
-  <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> 
+## Achievements & Recognition
+
+### 🥈 National Runner-Up | Smart India Hackathon 2024
+
+**Deepfake Detection System** - Developed a multi-modal deepfake detection system using computer vision and deep learning.
+
+### 🥉 State Winner | SSIP Hackathon 2023  
+
+**Grievance Portal for ONOC** - Built an consumer grievance portal for One Nation One Challan Policy.
+
+## Certifications
+
+<div align="center">
+<table align="center">
+<tr align="center">
+
+<td>
+<img src="./assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" height="150"/>
+</td>
+
+<td>
+<img src="./assets/gate-2025.png" alt="GATE 2025 Qualified" width="150" height="150"/>
+</td>
+
+</tr>
+
+<tr align="center">
+<td>
+
+**AWS Certified<br/>Cloud Practitioner**
+</td>
+<td>
+
+**GATE 2025 Qualified**
+</td>
+
+</tr>
+</table>
+</div>
+
+## Research Work
+
+1. ***Fusing Retrieval Techniques for Enhanced Personalized Community Question Answering***<br/>
+Forum for Information Retrieval Evaluation (FIRE) 2024 | [Read Paper](https://ceur-ws.org/Vol-4054/T5-2.pdf)
+
+## Let's Connect!
+
+I'm always open to interesting conversations, collaboration opportunities, and new challenges. Whether you want to discuss ML architectures, system design, or potential projects, feel free to reach out!
+<br/>
+<br/>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/kandarpgajjar) [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge)](https://slantie.vercel.app) [![Email](https://img.shields.io/badge/Email-Contact-red?style=for-the-badge)](mailto:kandarp.gajjar.460@gmail.com)
+
+</div>
