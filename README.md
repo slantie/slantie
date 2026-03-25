@@ -41,23 +41,42 @@ Currently exploring: Advanced ML architectures, cloud-native applications, and s
 <tr align="center">
 
 <td>
-<img src="./assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" height="150"/>
+<img src="./assets/gate-2026.png" alt="GATE 2026 Qualified" width="auto" height="150"/>
+</td>
+
+<td>
+<img src="./assets/cat-2025.png" alt="CAT 2025 Qualified" width="150" height="150"/>
 </td>
 
 <td>
 <img src="./assets/gate-2025.png" alt="GATE 2025 Qualified" width="150" height="150"/>
 </td>
 
+<td>
+<img src="./assets/aws-cloud-practitioner.png" alt="AWS Certified Cloud Practitioner" width="150" height="150"/>
+</td>
+
 </tr>
 
 <tr align="center">
 <td>
-
-**AWS Certified<br/>Cloud Practitioner**
+  
+**GATE 2026 CSE & DA Qualified**
 </td>
-<td>
 
-**GATE 2025 Qualified**
+<td>
+  
+**CAT 2025 Qualified**
+</td>
+
+<td>
+  
+**GATE 2025 CSE Qualified**
+</td>
+
+<td>
+  
+**AWS Certified<br/>Cloud Practitioner**
 </td>
 
 </tr>
