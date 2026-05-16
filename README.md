@@ -2,7 +2,7 @@
 
 # 👋 Hi, I'm Kandarp Gajjar
 
-### 1x AWS Certified | Computer Engineering Student | Machine Learning Enthusiast
+### 2x AWS Certified | Computer Engineering Student | Machine Learning Enthusiast
 
 *B.E. Computer Engineering @ LDRP-ITR, KSV*
 
@@ -41,15 +41,7 @@ Currently exploring: Advanced ML architectures, cloud-native applications, and s
 <tr align="center">
 
 <td>
-<img src="./assets/gate-2026.png" alt="GATE 2026 Qualified" width="auto" height="150"/>
-</td>
-
-<td>
-<img src="./assets/cat-2025.png" alt="CAT 2025 Qualified" width="150" height="150"/>
-</td>
-
-<td>
-<img src="./assets/gate-2025.png" alt="GATE 2025 Qualified" width="150" height="150"/>
+<img src="./assets/aws-mle-associate.png" alt="AWS Certified Machine Learning Engineer - Associate" width="150" height="150"/>
 </td>
 
 <td>
@@ -61,22 +53,12 @@ Currently exploring: Advanced ML architectures, cloud-native applications, and s
 <tr align="center">
 <td>
   
-**GATE 2026 CSE & DA Qualified**
+**AWS MLA-C01**
 </td>
 
 <td>
   
-**CAT 2025 Qualified**
-</td>
-
-<td>
-  
-**GATE 2025 CSE Qualified**
-</td>
-
-<td>
-  
-**AWS Certified<br/>Cloud Practitioner**
+**AWS CLF-C02**
 </td>
 
 </tr>
